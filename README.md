@@ -1,6 +1,6 @@
 # Market Entry Analysis for ABG Motors in India
-### Market Entry Analysisfor ABG Motorsin India
-### Objective
+### Market Entry Analysis for ABG Motors in India
+# Objective
 The project aims to:
 
 Predict the likelihood of car purchases in the Indian market using data from Japanese operations.
