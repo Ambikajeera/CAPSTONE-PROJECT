@@ -1,5 +1,12 @@
-# Market-Entry-Analysis-for-ABG-Motors-in-India
+# Market Entry Analysis for ABG Motors in India
 ### Market Entry Analysisfor ABG Motorsin India
+### Objective
+The project aims to:
+
+Predict the likelihood of car purchases in the Indian market using data from Japanese operations.
+Forecast a minimum of 12,000 car sales in India over the course of a year to assess the market's profitability.
+Develop a classification model that predicts whether a customer will purchase a car based on demographic and behavioral data.
+
 In this module, you will work on a case study and apply the concepts you learnt till now. You will
 learn how real data is manipulated and understand how the data science concepts are applied in
 real-life situations.
